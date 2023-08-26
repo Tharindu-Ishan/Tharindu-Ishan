@@ -64,6 +64,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
+<h3 align="left">🔥   My Stats :</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu-ishan&show_icons=true&locale=en&layout=compact" alt="tharindu-ishan" /></p>
 
