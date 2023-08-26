@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="300" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"  />
 </div>
@@ -6,7 +7,11 @@
 <hr>
 <h1 align="center">Hi 👋, I'm Tharindu Ishan</h1>
 
-<h3 align="left">👩‍💻 I am a committed graduate Engineer from the University of Moratuwa. A determined individual with a passion for exploring and learning new aspects of the Software industry.Looking forward to opportunities in the IT field to build up my career as a full stack Software Engineer. As a quick learner, team player, and technology enthusiast, I am passionate about using technology to solve real-world problems. I am always eager to work with like-minded professionals who share my commitment to excellence and my passion for innovation.</h3>
+<h3 align= "left">👩‍💻 I am a committed graduate Engineer from the University of Moratuwa. A determined individual with a passion for exploring and learning new aspects of the Software industry.Looking forward to opportunities in the IT field to build up my career as a full stack Software Engineer. As a quick learner, team player, and technology enthusiast, I am passionate about using technology to solve real-world problems. I am always eager to work with like-minded professionals who share my commitment to excellence and my passion for innovation.</h3>
+
+
+
+
 
 
 
