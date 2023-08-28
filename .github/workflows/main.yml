@@ -30,7 +30,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: tharindu-ishan
+          github_user_name: tharindu_ishan
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -42,7 +42,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.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 }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
 
@@ -52,4 +52,17 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+        
+  my_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+      - name: Push to GitHub
+        run: |
+          git config --global user.name "Tharindu Ishan"
+          git config --global user.email "ishanthari96@gmail.com"
+          git push https://${{ secrets.PAT_SECRET }}@github.com/tharindu-ishan/repo.git
