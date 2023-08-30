@@ -9,18 +9,11 @@
 
 <h3 align= "left">👩‍💻 I am a committed graduate Engineer from the University of Moratuwa. A determined individual with a passion for exploring and learning new aspects of the Software industry.Looking forward to opportunities in the IT field to build up my career as a full stack Software Engineer. As a quick learner, team player, and technology enthusiast, I am passionate about using technology to solve real-world problems. I am always eager to work with like-minded professionals who share my commitment to excellence and my passion for innovation.</h3>
 
-
-
-
-
-
-
 - 🔭 I’m currently working on [IJSE](https://github.com/Tharindu-Ishan)
 
 - 🌱 I’m currently learning **TechStackFusion**
 
 - 📫 How to reach me **ishanthari96@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
   <hr>
@@ -85,7 +78,7 @@
   <img src="https://streak-stats.demolab.com?user=tharindu-ishan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <hr>
-
+<h3 align="left">Snake eates my Contributions Graph!🐍 :</h3>
 ![snake gif](https://github.com/tharindu-ishan/tharindu-ishan/blob/output/github-contribution-grid-snake.svg)
 
 
