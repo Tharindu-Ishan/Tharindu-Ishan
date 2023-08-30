@@ -86,7 +86,7 @@
 </div>
 <hr>
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/tharindu-ishan/tharindu-ishan/blob/output/github-contribution-grid-snake.gif)
 
 
 
