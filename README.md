@@ -79,6 +79,7 @@
 </div>
 <hr>
 <h3 align="left">Snake eates my Contributions Graph! ![Happy Emoji](emojis/snake.gif) :</h3>
+
 ![snake gif](https://github.com/tharindu-ishan/tharindu-ishan/blob/output/github-contribution-grid-snake.svg)
 
 
