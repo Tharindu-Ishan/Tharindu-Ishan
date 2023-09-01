@@ -5,9 +5,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharindu-ishan&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu-ishan" /> </p>
 <hr>
-<h1 align="center">Hi <img src="emojis/waving.png" width="35px">, I'm Tharindu Ishan</h1>
+<h1 align="center">Hi <img src="emojis/waving.png" width="38px">, I'm Tharindu Ishan</h1>
 
-<h3 align= "left">👩‍💻 I am a committed graduate Engineer from the University of Moratuwa. A determined individual with a passion for exploring and learning new aspects of the Software industry.Looking forward to opportunities in the IT field to build up my career as a full stack Software Engineer. As a quick learner, team player, and technology enthusiast, I am passionate about using technology to solve real-world problems. I am always eager to work with like-minded professionals who share my commitment to excellence and my passion for innovation.</h3>
+<h3 align= "left"><img src="emojis/coding.png" width="32px"> I am a committed graduate Engineer from the University of Moratuwa. A determined individual with a passion for exploring and learning new aspects of the Software industry.Looking forward to opportunities in the IT field to build up my career as a full stack Software Engineer. As a quick learner, team player, and technology enthusiast, I am passionate about using technology to solve real-world problems. I am always eager to work with like-minded professionals who share my commitment to excellence and my passion for innovation.</h3>
 
 - 🔭 I’m currently working on [IJSE](https://github.com/Tharindu-Ishan)
 
@@ -78,7 +78,7 @@
   <img src="https://streak-stats.demolab.com?user=tharindu-ishan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <hr>
-<h3 align="left">Snake eates my Contributions Graph! ![Happy Emoji](emojis/snake.gif) :</h3>
+<h3 align="left">Snake eates my Contributions Graph! <img src="emojis/snake2.png" width="35px"> :</h3>
 
 ![snake gif](https://github.com/tharindu-ishan/tharindu-ishan/blob/output/github-contribution-grid-snake.svg)
 
