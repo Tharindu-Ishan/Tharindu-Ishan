@@ -78,7 +78,7 @@
   <img src="https://streak-stats.demolab.com?user=tharindu-ishan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <hr>
-<h3 align="left">Snake eates my Contributions Graph! <img src="emojis/snake2.png" width="35px"> :</h3>
+<h3 align="left">Snake eates my Contributions Graph! <img src="snake.gif" width="35px"> :</h3>
 
 ![snake gif](https://github.com/tharindu-ishan/tharindu-ishan/blob/output/github-contribution-grid-snake.svg)
 
