@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="300" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"  />
+  <img height="300" src="emojis/coding.gif"  />
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharindu-ishan&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu-ishan" /> </p>
