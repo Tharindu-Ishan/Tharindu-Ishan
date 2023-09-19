@@ -24,6 +24,9 @@
 <a href="https://instagram.com/tharindu_ish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharindu_ish" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ishanthari96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ishanthari96" height="30" width="40" /></a>
 <a href="https://discord.com/channels/thari5607" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="thari5607" height="30" width="40" /></a>
+  <a href="mailto:ishanthari96@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>  
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
