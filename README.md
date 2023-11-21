@@ -90,7 +90,7 @@
   <img src="https://streak-stats.demolab.com?user=tharindu-ishan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <hr>
-<h3 align="left">Snake eates my Contributions Graph! :</h3>
+<h3 align="left">Snake eates my Contributions Graph! </br>If You can't see Refresh:</h3>
 <img src="emojis/snake.gif" width="60px"> 
 
 
