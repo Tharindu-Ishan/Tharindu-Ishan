@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **TechStackFusion**
 
 - 📫 How to reach me **ishanthari96@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
   <hr>
 <p align="left">
@@ -93,7 +93,7 @@
 </div>
 <hr>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Snake+eates+my+contribution+graph!+🐍;+If+you+can't+see+it;+Reload+page;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Snake+eates+my+contribution+graph!+🐍;+If+you+can't+see+it;+Reload+the+page;" />
 </h1>
 <img src="emojis/snake.gif" width="60px"> 
 
