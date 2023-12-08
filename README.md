@@ -31,7 +31,7 @@
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,html,js,css,tailwind,ts,hibernate,java,python,cpp,jquery,mysql,postgresql,postman,figma,nodejs,react,angular,spring,maven,materialui,firebase,git,github,sass,idea,vscode,linux,stackoverflow" />
   </a>
